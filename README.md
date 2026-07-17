@@ -226,7 +226,7 @@ The matrix never changes optimistically — every state transition is confirmed 
 
 ## Author
 
-Built by **Andrei Sukhodeev** — <https://astechlab.net/>
+Built by **Andrii Sukhodieiev** — <https://astechlab.net/>
 
 ## License
 
