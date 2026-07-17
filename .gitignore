@@ -1,3 +1,7 @@
+# StamPLC / Atom Matrix runtime state (device-local, not for the repo)
+schedules.json
+tz.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
